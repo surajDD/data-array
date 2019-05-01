@@ -1,7 +1,7 @@
 <?php
 define("y",100);//3rd para is optional for case insensitivity it is false by default
 echo y;//100
-//echo Y;//error
+//echo Y;
 
 define("x",100,true);//3rd para is optional for incase sensitivity = true
 echo x;//100
